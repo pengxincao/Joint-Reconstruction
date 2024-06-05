@@ -1,4 +1,4 @@
-addpath 'E:\previous documents\毕业论文\程序及数据\Syn-X联合实验\New C method 3\Project';
+
 Project=@(x) ProjectW(x,Iini,W,340);
 
 FL0TV=@(x)LpFilter(x,{[-1,1],[-1;1]},0,0.005,2);

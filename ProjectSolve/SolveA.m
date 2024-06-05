@@ -1,6 +1,6 @@
 function [x,dx] = SolveA(A,s,R,y0)
-%UNTITLED2 此处显示有关此函数的摘要
-%   此处显示详细说明
+%UNTITLED2 
+%   
 %   min||x-s||
 %   ||Ax-y0||<R
 [Lx,Ly]=size(s);

@@ -2,6 +2,7 @@
 addpath Precomputed\;
 addpath BasicTools\;
 addpath LnormDenoising\;
+addpath ProjectSolve\;
 
 load('SynFdata.mat');
 load('Matrix.mat', 'A');

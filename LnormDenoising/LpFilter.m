@@ -1,6 +1,6 @@
 function x = LpFilter(x0,w,normP,lambda, kappa)
-%UNTITLED5 此处显示有关此函数的摘要
-%   此处显示详细说明
+%UNTITLED5 
+%   
 Mask=x0==0;
 betamax = 1e6;
 beta = 2*max(lambda);

@@ -1,6 +1,6 @@
 function H = DesignFBPfilter(d,n)
-%UNTITLED 此处显示有关此函数的摘要
-%   此处显示详细说明
+%UNTITLED 
+%   
 
 L=2*n+1;
 w=zeros(L,1);

@@ -1,6 +1,6 @@
 function T = LpSolve(Input,lambda,p)
-%UNTITLED9 此处显示有关此函数的摘要
-%   此处显示详细说明
+%UNTITLED9 
+%   
 S=sign(Input);
 Y=abs(Input);
 T=Y;
